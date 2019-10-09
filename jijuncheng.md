@@ -1,5 +1,5 @@
 # 吉峻城 201704213002
-## 2.
+## 二、
 ### 条例或法规
 《上海市公共数据开放暂行办法》 上海市人民政府
 http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw12344/u26aw62638.html
@@ -14,3 +14,6 @@ http://www.gzrd.gov.cn/dffg/gzsdffg/26353.shtml
 
 European Data Portal              https://www.europeandataportal.eu/
 
+South Africa Data Portal          https://southafrica.opendataforafrica.org/
+
+##三、

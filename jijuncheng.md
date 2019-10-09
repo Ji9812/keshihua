@@ -20,6 +20,6 @@ South Africa Data Portal          https://southafrica.opendataforafrica.org/
 #### 2012-2018年各季度GDP增速
 统计指标：国内生产总值当季值（亿元）
 
-计算步骤 =（POWER（B3/B3，1）-1），拉直所有格
+计算步骤 =（POWER（B3/B3，1）-1），拉至所有格
 
 数据页面及答案见图片

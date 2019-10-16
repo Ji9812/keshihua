@@ -13,4 +13,4 @@
 
 房源经纬度，即房源位置，我用了老师上课介绍的[geojson](http://geojson.io/#map=2/20.0/0.0)和国内的一个在线地图可视化工具[地图无忧](https://www.dituwuyou.com/)来呈现。
 
-[地图by geojson]（）&[地图by 地图无忧]
+[地图by geojson]（https://github.com/Ji9812/keshihua/blob/master/geojson.jpg） & [地图by 地图无忧]

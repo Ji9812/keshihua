@@ -13,4 +13,7 @@
 
 房源经纬度，即房源位置，我用了老师上课介绍的[geojson](http://geojson.io/#map=2/20.0/0.0)和国内的一个在线地图可视化工具[地图无忧](https://www.dituwuyou.com/)来呈现。
 
-[地图by geojson]（https://github.com/Ji9812/keshihua/blob/master/geojson.jpg） & [地图by 地图无忧]
+[地图by geojson](https://github.com/Ji9812/keshihua/blob/master/geojson.jpg) & [地图by 地图无忧](https://github.com/Ji9812/keshihua/blob/master/%E5%9C%B0%E5%9B%BE%E6%97%A0%E5%BF%A7.jpg)
+
+#### 使用体会
+Excel和百度图说都可以有多种图表来呈现数据，但Excel对于图表几乎不可调，只能自动生成；百度图说的图表种类又太少，都不是最合适的工具。地图的呈现上，geojson的比例不可无级调节，而且标记点太大影响观察，但我想简单的呈现绝不是这个工具的全部能力；而地图无忧在呈现上相对友好得多，既可以选择默认的地图还可以加图层。总结这次经历来看，初期的**数据剔除**对后期的呈现**非常重要**，但我在经验不足的情况下，在最后一步呈现时才发现了问题，又去剔除数据，耗费了时间，但我想这同样也是一次不错的学习经历，以后在呈现之前就应该先着眼于异常数据，方便之后的操作。

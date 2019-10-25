@@ -7,7 +7,7 @@
 
 房源价格我选择使用**Excel**和**百度图说**作呈现，但使用时发现百度图说不可制作直方图，故只用了Excel来呈现。
 
-[直方图](https://github.com/Ji9812/keshihua/blob/master/%E7%9B%B4%E6%96%B9%E5%9B%BE.jpg)
+![直方图](https://github.com/Ji9812/keshihua/blob/master/%E7%9B%B4%E6%96%B9%E5%9B%BE.jpg)
 
 ***房源经纬度***
 

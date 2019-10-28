@@ -14,6 +14,6 @@
 ### (2)过程步骤
 数据来源
 
-[日本垃圾焚烧全报告]（http://www.doc88.com/p-6661325085257.html）
+[日本垃圾焚烧全报告](http://www.doc88.com/p-6661325085257.html)
 
-[环境省 废弃物处理技术情报]（http://www.env.go.jp/recycle/waste_tech/ippan/stats.html）
+[环境省 废弃物处理技术情报](http://www.env.go.jp/recycle/waste_tech/ippan/stats.html)

@@ -17,3 +17,8 @@
 [日本垃圾焚烧全报告](http://www.doc88.com/p-6661325085257.html)
 
 [环境省 废弃物处理技术情报](http://www.env.go.jp/recycle/waste_tech/ippan/stats.html)
+
+废弃物处理技术情报中按年记录，将其中有用信息提取，整合进excel。将人口信息与垃圾信息分别制表。
+
+### （3）思考过程
+

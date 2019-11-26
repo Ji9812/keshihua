@@ -5,9 +5,9 @@
 ![性犯罪](https://github.com/Ji9812/keshihua/blob/master/性犯罪.jpg)
 ![keyi2](https://github.com/Ji9812/keshihua/blob/master/keyi2.jpeg)
 # 实现用的代码
-> setwd("C:/Users/16687/Desktop/keshihuahua")
+>> setwd("C:/Users/16687/Desktop/keshihuahua")
 
-> install.packages("gcookbook")
+>> install.packages("gcookbook")
 
 > install.packages("readxl")
 
